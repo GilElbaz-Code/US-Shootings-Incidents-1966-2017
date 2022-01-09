@@ -2,16 +2,12 @@ from kaggle.api.kaggle_api_extended import KaggleApi
 import pandas as pd
 import numpy as np
 
-pd.set_option('display.width', 320)
-np.set_printoptions(linewidth=320)
-pd.set_option('display.max_columns', 20)
-
-
-# TODO : 1) Fix Gender
-# TODO : 2) Fix Unemployed
-# TODO : 3) Remove rows without location (Latitude + Longitude)
-# TODO : 4) Change date to proper form
-# TODO : 5) Change nan -> unknown
+'''
+Task : 1) Which state has the most shooting incidents
+2) Employed/Unemployed
+3) Race Distribution
+4) Reason for shooting
+'''
 
 
 def get_data():
@@ -23,11 +19,62 @@ def get_data():
     api.dataset_download_file('zusmani/us-mass-shootings-last-50-years', 'Mass Shootings Dataset Ver 5.csv')
 
 
-if __name__ == '__main__':
+def main():
     # get_data()
     raw_dataframe = pd.read_csv('Mass%20Shootings%20Dataset%20Ver%205.csv', sep=',', encoding='latin-1')
     df_shootings = raw_dataframe.copy()
-    # print(df_shootings.head())
-    # print(df_shootings.describe())
-    # print(df_shootings.nunique())
-    print(df_shootings.loc[:1])
+    '''
+     Deleted:
+     1) S# Column - abundant column
+     2) Incident Area Column - Interested state-wise
+     3) Open/Close Location - Not relevant
+     4) Summary - too long and not relevant
+     5) Title - same as 4
+    '''
+    df_shootings = df_shootings.drop(['S#', 'Incident Area', 'Open/Close Location', 'Target', 'Summary', 'Title'],
+                                     axis=1)
+    '''
+    Fixing Date type object
+    '''
+    # Checkpoint
+    df_shootings_mod = df_shootings.copy()
+    df_shootings_mod['Date'] = pd.to_datetime(df_shootings_mod['Date'], format='%m/%d/%Y')
+
+    '''
+    Get a list of year of each incident and add it to the modded dataframe.
+    '''
+    list_year = []
+    for row in range(df_shootings_mod.shape[0]):
+        list_year.append(df_shootings_mod['Date'][row].year)
+
+    df_shootings_mod['Year Value'] = list_year
+
+    '''
+    Combine domestic dispute + domestic disputer
+    replaced nan with unknown
+    '''
+    # Checkpoint
+    df_shootings_cause = df_shootings_mod.copy()
+
+    df_shootings_cause['Cause'].replace('domestic disputer', 'domestic dispute', inplace=True)
+    df_shootings_cause['Cause'].replace(np.nan, 'unknown', inplace=True)
+
+    # Checkpoint
+    df_shootings_total_victims = df_shootings_cause.copy()
+    df_shootings_total_victims.rename({'Total victims': 'Total Victims'}, axis=1, inplace=True)
+
+    '''
+    nan changed to 0
+    converted from float to int
+    '''
+    df_shootings_total_victims['Policeman Killed'].replace(np.nan, 0.0, inplace=True)
+    df_shootings_total_victims['Policeman Killed'] = df_shootings_total_victims['Policeman Killed'].apply(np.int64)
+
+    # Checkpoint
+    df_shootings_age = df_shootings_total_victims.copy()
+    df_shootings_age['Age'].replace(np.nan, 'Unknown', inplace=True)
+    print(df_shootings_age['Age'].unique())
+
+
+if __name__ == '__main__':
+    main()
