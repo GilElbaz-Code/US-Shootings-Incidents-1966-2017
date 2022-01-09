@@ -30,13 +30,16 @@ def main():
      3) Open/Close Location - Not relevant
      4) Summary - too long and not relevant
      5) Title - same as 4
+     6) Employeed Y/N - Not much data
+     7) Employed at - same as 6
     '''
-    df_shootings = df_shootings.drop(['S#', 'Incident Area', 'Open/Close Location', 'Target', 'Summary', 'Title'],
+    df_shootings = df_shootings.drop(['S#', 'Incident Area', 'Open/Close Location',
+                                      'Target', 'Summary', 'Title', 'Employeed (Y/N)', 'Employed at'],
                                      axis=1)
     '''
     Fixing Date type object
     '''
-    # Checkpoint
+    # Checkpoint - Date
     df_shootings_mod = df_shootings.copy()
     df_shootings_mod['Date'] = pd.to_datetime(df_shootings_mod['Date'], format='%m/%d/%Y')
 
@@ -53,13 +56,13 @@ def main():
     Combine domestic dispute + domestic disputer
     replaced nan with unknown
     '''
-    # Checkpoint
+    # Checkpoint - Cause
     df_shootings_cause = df_shootings_mod.copy()
 
     df_shootings_cause['Cause'].replace('domestic disputer', 'domestic dispute', inplace=True)
     df_shootings_cause['Cause'].replace(np.nan, 'unknown', inplace=True)
 
-    # Checkpoint
+    # Checkpoint - Total Victims
     df_shootings_total_victims = df_shootings_cause.copy()
     df_shootings_total_victims.rename({'Total victims': 'Total Victims'}, axis=1, inplace=True)
 
@@ -70,11 +73,22 @@ def main():
     df_shootings_total_victims['Policeman Killed'].replace(np.nan, 0.0, inplace=True)
     df_shootings_total_victims['Policeman Killed'] = df_shootings_total_victims['Policeman Killed'].apply(np.int64)
 
-    # Checkpoint
+    # Checkpoint - Age
     df_shootings_age = df_shootings_total_victims.copy()
-    df_shootings_age['Age'].replace(np.nan, 'Unknown', inplace=True)
-    print(df_shootings_age['Age'].unique())
+    df_shootings_age['Age'].replace(np.nan, -1, inplace=True)
+    df_shootings_age['Age'].replace('0', -1, inplace=True)
 
+    # Checkpoint - Mental Health Issues
+    df_shootings_mental = df_shootings_age.copy()
+    print(df_shootings_mental.columns)
+
+    vals_to_replace = {'Unknown': 'Unclear', 'unknown': 'Unclear'}
+    df_shootings_mental['Mental Health Issues'].replace(vals_to_replace,
+                                                        regex=True,
+                                                        inplace=True)
+
+    print(df_shootings_mental['Race'].unique())
+    print(df_shootings_mental['Gender'].unique())
 
 if __name__ == '__main__':
     main()
