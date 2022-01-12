@@ -2,13 +2,6 @@ from kaggle.api.kaggle_api_extended import KaggleApi
 import pandas as pd
 import numpy as np
 
-'''
-Task : 1) Which state has the most shooting incidents
-2) Employed/Unemployed
-3) Race Distribution
-4) Reason for shooting
-'''
-
 
 def get_data():
     """
@@ -80,15 +73,36 @@ def main():
 
     # Checkpoint - Mental Health Issues
     df_shootings_mental = df_shootings_age.copy()
-    print(df_shootings_mental.columns)
-
-    vals_to_replace = {'Unknown': 'Unclear', 'unknown': 'Unclear'}
-    df_shootings_mental['Mental Health Issues'].replace(vals_to_replace,
+    mental_dict = {'Unknown': 'Unclear', 'unknown': 'Unclear'}
+    df_shootings_mental['Mental Health Issues'].replace(mental_dict,
                                                         regex=True,
                                                         inplace=True)
 
-    print(df_shootings_mental['Race'].unique())
-    print(df_shootings_mental['Gender'].unique())
+    # Checkpoint - Race
+    df_shootings_race = df_shootings_mental.copy()
+    race_dict = {np.nan: "Unknown", "Other": "Unknown", "Black American or African American": "Black",
+                 "White American or European American": "White", "Asian American": "Asian",
+                 "Some other race": "Unknown",
+                 "Two or more races": "Mixed", "Black American or African American/Unknown": "Black",
+                 "White American or European American/Some other Race": "White",
+                 "Native American or Alaska Native": "Native American",
+                 "white": "White", "black": "Black", "Asian American/Some other race": "Asian"}
+    df_shootings_race['Race'].replace(race_dict, inplace=True)
+
+    # Checkpoint - Gender
+    df_shootings_gender = df_shootings_race.copy()
+    gender_dict = {"M": "Male", "M/F": "Unknown", "Male/Female": "Unknown"}
+    df_shootings_gender['Gender'].replace(gender_dict, inplace=True)
+
+    # Checkpoint
+    df_shootings_final = df_shootings_gender.copy()
+    df_shootings_final.insert(0, 'City', df_shootings_final['Location'].str.split(',', expand=True)[0])
+    df_shootings_final.insert(1, 'State', df_shootings_final['Location'].str.split(',', expand=True)[1])
+    df_shootings_final.drop('Location', inplace=True, axis=1)
+
+    # Create processed CSV file
+    df_shootings_final.to_csv("us_shootings_processed.csv", sep=',')
+
 
 if __name__ == '__main__':
     main()

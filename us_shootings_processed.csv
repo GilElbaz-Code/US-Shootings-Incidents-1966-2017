@@ -1,0 +1,324 @@
+,City,State,Date,Cause,Fatalities,Injured,Total Victims,Policeman Killed,Age,Mental Health Issues,Race,Gender,Latitude,Longitude,Year Value
+0,Sutherland Springs, TX,2017-11-05,unknown,26,20,46,0,26,No,White,Male,,,2017
+1,Thornton, CO,2017-11-01,unknown,3,0,3,0,47,No,White,Male,,,2017
+2,Edgewood, MD,2017-10-18,unknown,3,3,6,0,37,No,Black,Male,,,2017
+3,Las Vegas, NV,2017-10-01,unknown,59,527,585,1,64,Unclear,White,Male,36.181271,-115.13413200000001,2017
+4,San Francisco, CA,2017-06-14,unknown,3,2,5,0,38,Yes,Asian,Male,,,2017
+5,Tunkhannock, PA,2017-06-07,terrorism,3,0,3,0,24,Unclear,White,Male,,,2017
+6,Orlando, Florida,2017-06-05,unemployement,5,0,5,0,45,Unclear,Unknown,Male,,,2017
+7,Kirkersville, Ohio,2017-05-12,unknown,3,0,3,1,43,Yes,White,Male,,,2017
+8,Fresno, California,2017-04-18,racism,3,0,3,0,39,Unclear,Black,Male,,,2017
+9,Fort Lauderdale, Florida,2017-01-06,terrorism,5,6,11,0,26,Yes,Latino,Male,,,2017
+10,Burlington, WA,2016-09-23,terrorism,5,0,5,0,20,Yes,Unknown,Male,,,2016
+11,Baton Rouge, LA,2016-07-17,unknown,3,3,6,3,-1,Yes,Black,Male,,,2016
+12,Dallas, Texas,2016-07-07,racism,5,11,16,5,25,Unclear,Black,Male,,,2016
+13,Orlando, Florida,2016-06-12,unknown,49,53,102,0,29,Unclear,Unknown,Male,,,2016
+14,Ferguson, Missouri,2016-04-29,unknown,0,4,4,0,-1,Unclear,Unknown,Unknown,38.744217,-90.305391,2016
+15,,,2016-04-26,unknown,1,4,5,0,-1,Unclear,Unknown,Unknown,38.845113,-76.874972,2016
+16,,,2016-04-24,unknown,0,6,6,0,-1,Unclear,Black,Male,36.765971,-78.928344,2016
+17,,,2016-04-21,frustration,0,4,4,0,-1,Unclear,Black,Male,39.290385,-76.612189,2016
+18,,,2016-04-19,unknown,1,4,5,0,-1,Unclear,Unknown,Unknown,41.878114000000004,-87.629798,2016
+19,,,2016-04-19,domestic dispute,4,0,4,0,-1,Unclear,White,Male,29.785784999999997,-95.824396,2016
+20,,,2016-04-19,unknown,1,4,4,0,-1,Yes,White,Male,34.162040000000005,-86.475543,2016
+21,,,2016-04-18,terrorism,0,3,4,0,-1,Unclear,Unknown,Unknown,33.77005,-118.193739,2016
+22,,,2016-04-09,anger,0,4,4,0,-1,Unclear,White,Male,35.085334,-106.605553,2016
+23,,,2016-04-09,anger,0,4,4,0,-1,Unclear,Unknown,Unknown,35.149534,-90.04898,2016
+24,,,2016-04-07,unknown,0,5,5,0,-1,Unclear,Unknown,Unknown,41.878114000000004,-87.629798,2016
+25,,,2016-04-01,unknown,3,1,3,0,-1,Unclear,Asian,Male,35.085334,-106.605553,2016
+26,Richmond, Virginia,2016-03-31,frustration,2,2,3,0,-1,Unclear,Black,Male,37.540725,-77.436048,2016
+27,Louisburg, North Carolina,2016-03-26,terrorism,3,0,3,0,-1,Unclear,Black,Male,36.099039000000005,-78.301106,2016
+28,Lawrenceburg, Tennessee,2016-03-25,domestic dispute,2,2,3,0,-1,Unclear,Unknown,Male,35.242302,-87.334739,2016
+29,,,2016-03-25,domestic dispute,2,2,3,0,-1,Yes,White,Male,34.759257,-86.60249300000001,2016
+30,Sherman, Texas ,2016-03-21,domestic dispute,4,0,3,0,-1,Unclear,Unknown,Male,33.635661999999996,-96.60888,2016
+31,Louisville, Kentucky,2016-03-20,domestic dispute,4,0,3,0,-1,Yes,White,Male,38.252665,-85.75845600000001,2016
+32,Plantation, Florida,2016-03-19,unknown,1,4,5,0,-1,Unclear,Unknown,Unknown,26.127585999999997,-80.233104,2016
+33,Wetumpka, Alabama,2016-03-19,terrorism,2,2,4,0,-1,Unclear,Black,Male,32.543745,-86.211913,2016
+34,,,2016-03-15,anger,0,4,4,0,-1,Unclear,Unknown,Unknown,33.748995,-84.387982,2016
+35,,,2016-03-13,unknown,0,4,4,0,-1,Unclear,Unknown,Unknown,26.640628000000003,-81.87230799999999,2016
+36,,,2016-03-12,domestic dispute,2,2,3,0,-1,Unclear,Unknown,Male,34.111222999999995,-82.86708399999999,2016
+37,,,2016-03-11,unknown,0,5,5,0,-1,Unclear,Unknown,Unknown,40.217053,-74.742938,2016
+38,,,2016-03-11,unknown,2,2,4,0,-1,Unclear,Unknown,Unknown,42.331427000000005,-83.045754,2016
+39,Pittsburgh, Pennsylvania,2016-03-09,terrorism,6,3,9,0,-1,Unclear,Unknown,Male,40.440625,-79.995886,2016
+40,,,2016-03-09,terrorism,5,3,8,0,-1,Unclear,Unknown,Male,40.441736,-79.88199399999999,2016
+41,Kansas City, Kansas,2016-03-07,unknown,5,0,5,0,-1,Unclear,Unknown,Male,39.114053000000006,-94.627464,2016
+42,,,2016-03-07,unknown,0,4,4,0,-1,Unclear,Unknown,Unknown,30.224090000000004,-92.01984300000001,2016
+43,,,2016-03-07,unknown,4,0,4,0,-1,Unclear,Unknown,Male,39.114053000000006,-94.627464,2016
+44,Chelsea, Massachusetts,2016-03-06,terrorism,1,6,7,0,-1,Unclear,Unknown,Male,42.391764,-71.03282800000001,2016
+45,,,2016-03-06,anger,0,4,4,0,-1,Unclear,Black,Male,34.023243,-84.36155600000001,2016
+46,,,2016-03-05,anger,0,4,4,0,-1,Unclear,Unknown,Unknown,37.687176,-97.330053,2016
+47,,,2016-02-28,anger,0,5,5,0,-1,Unclear,Black,Male,42.331427000000005,-83.045754,2016
+48,,,2016-02-28,unknown,1,3,4,0,-1,Unclear,Unknown,Male,33.997197,-117.48548000000001,2016
+49,Woodbridge,  Virginia,2016-02-27,unknown,2,2,4,3,-1,Unclear,Black,Male,38.6697,-77.3524,2016
+50,Belfair, Washington,2016-02-26,domestic dispute,5,0,4,0,-1,Unclear,White,Male,47.5033,-122.931,2016
+51,Hesston, Kansas,2016-02-25,unknown,3,14,17,0,-1,Unclear,Black,Male,,,2016
+52,Hesston, Kansas,2016-02-25,psycho,4,14,17,0,-1,Unclear,Black,Male,38.1368,-97.4268,2016
+53,,,2016-02-25,psycho,5,0,4,0,-1,Unclear,White,Male,47.451459,-122.82694599999999,2016
+54,Glendale, Arizona,2016-02-23,psycho,5,0,4,0,-1,Unclear,White,Male,33.448377,-112.074037,2016
+55,,,2016-02-21,unknown,1,3,4,0,-1,Unclear,Black,Male,38.771440000000005,-90.370949,2016
+56,,,2016-02-21,unknown,0,5,5,0,-1,Unclear,Unknown,Unknown,29.760427000000004,-95.369803,2016
+57,Kalamazoo County, Michigan,2016-02-20,unknown,6,2,8,0,-1,Unclear,White,Male,,,2016
+58,Iuka, Mississippi,2016-02-20,domestic dispute,2,3,4,1,-1,Unclear,White,Male,34.7404,-88.1383,2016
+59,,,2016-02-20,anger,1,3,4,0,-1,Unclear,Unknown,Unknown,27.950575,-82.457178,2016
+60,,,2016-02-20,unknown,6,2,8,0,-1,No,White,Male,42.291707,-85.58722900000001,2016
+61,,,2016-02-19,unknown,2,2,4,0,-1,Unclear,Unknown,Unknown,38.104085999999995,-122.25663700000001,2016
+62,,,2016-02-09,psycho,0,3,3,0,-1,Unclear,Black,Male,43.201126,-86.238946,2016
+63,Orlando, Florida,2016-02-07,terrorism,2,10,12,0,-1,Unclear,Unknown,Male,28.4541,-81.4646,2016
+64,,,2016-02-07,anger,1,7,8,0,-1,Unclear,Unknown,Unknown,43.16103,-77.610922,2016
+65,,,2016-02-06,unknown,2,6,8,0,-1,Unclear,Unknown,Unknown,27.950575,-82.457178,2016
+66,,,2016-02-06,unknown,1,3,4,0,-1,Unclear,Unknown,Unknown,34.052234000000006,-118.24368500000001,2016
+67,,,2016-02-06,psycho,4,0,3,0,-1,Unclear,White,Male,29.209684000000003,-99.786168,2016
+68,,,2016-01-31,anger,0,3,3,0,-1,Unclear,Black,Male,29.951065999999997,-90.07153199999999,2016
+69,,,2016-01-30,anger,3,5,8,0,-1,Unclear,Unknown,Male,33.538652,-112.18598700000001,2016
+70,,,2016-01-29,psycho,2,2,3,0,42,Unclear,Unknown,Male,38.044556,-77.286488,2016
+71,Chesapeake, Virginia,2016-01-27,psycho,6,0,5,0,-1,Yes,White,Male,36.7921,-76.3293,2016
+72,,,2016-01-25,unknown,1,4,5,0,-1,Unclear,Unknown,Male,33.782519,-117.22864799999999,2016
+73,,,2016-01-23,unknown,3,0,3,0,-1,Unclear,White,Male,30.754181,-86.572799,2016
+74,,,2016-01-23,terrorism,2,2,4,0,-1,Unclear,Unknown,Unknown,34.052234000000006,-118.24368500000001,2016
+75,,,2016-01-17,unknown,1,3,4,0,-1,Unclear,Black,Male,37.402640000000005,-76.458559,2016
+76,,,2016-01-11,unknown,1,4,5,0,-1,Unclear,Black,Male,39.739072,-75.539788,2016
+77,,,2016-01-07,unknown,1,3,4,0,-1,Unclear,Unknown,Unknown,35.149534,-90.04898,2016
+78,,,2016-01-06,unknown,3,1,4,0,-1,Unclear,Black,Male,28.039465000000003,-81.949804,2016
+79,Omaha, Nebraska,2015-12-06,unknown,2,3,5,0,-1,Unclear,Black,Male,41.3138,-96.0814,2015
+80,San Bernardino, California,2015-12-02,terrorism,14,21,35,0,-1,Unclear,Unknown,Unknown,,,2015
+81,San Bernardino, California,2015-12-02,terrorism,16,21,35,0,-1,Unclear,Asian,Unknown,34.13973446,-117.29424440000001,2015
+82,Colorado Springs, Colorado,2015-11-27,unknown,3,9,12,1,57,Unclear,White,Male,,,2015
+83,Columbus, Ohio,2015-11-23,unknown,4,1,4,0,-1,Unclear,White,Male,39.98861445,-82.98904135,2015
+84,Minneapolis, Minnesota,2015-11-23,racism,0,5,5,0,-1,Unclear,White,Male,44.96358722,-93.26783687,2015
+85,Tennessee Colony, Texas,2015-11-15,unknown,6,0,6,0,-1,Unclear,White,Male,31.8076,-95.8069,2015
+86,Jacksonville, Florida,2015-11-13,domestic dispute,4,1,4,0,-1,Unclear,Black,Male,30.33216122,-81.67576993,2015
+87,Waycross, Georgia,2015-11-07,psycho,1,2,3,0,-1,Yes,Black,Male,31.21094544,-82.35793452,2015
+88,Oakland, Maine,2015-11-04,domestic dispute,4,0,3,0,-1,Unclear,Unknown,Male,44.54994725,-69.70782299,2015
+89,Colorado Springs, Colorado,2015-10-31,terrorism,4,0,3,0,-1,Unclear,White,Male,38.86730659,-104.7572279,2015
+90,Colerain Township, Ohio,2015-10-21,unknown,2,1,3,0,-1,Unclear,White,Male,39.253268,-84.599655,2015
+91,Flagstaff, Arizona,2015-10-09,anger,1,3,4,0,-1,Unclear,White,Male,35.1725658,-111.65854350000001,2015
+92,Roseburg, Oregon,2015-10-01,terrorism,10,7,16,0,-1,Unclear,Mixed,Male,43.22205555,-123.3522367,2015
+93,Inglis, Florida,2015-10-01,anger,3,1,3,0,57,Unclear,White,Male,29.03270634,-82.65919302,2015
+94,Greenville, Georgia,2015-09-27,unknown,0,10,10,0,-1,Unclear,Black,Male,33.02912644,-84.7143335,2015
+95,Platte, South Dakota,2015-09-17,unknown,6,0,5,0,-1,Unclear,White,Male,43.38682722,-98.84357239,2015
+96,Clearbrook (Greenwood), Minnesota,2015-09-10,unknown,5,0,4,0,-1,Yes,White,Male,47.69618799,-95.42844094,2015
+97,Bristol, Tennessee,2015-08-29,psycho,3,1,4,0,-1,Unclear,White,Male,36.55605824,-82.21429551,2015
+98,Roanoke, Virginia,2015-08-26,psycho,3,1,3,0,-1,Unclear,Black,Male,37.27823366,-79.95816104,2015
+99,Rochester, New York,2015-08-19,unknown,3,4,7,0,-1,Unclear,Black,Male,43.16968370000001,-77.614337,2015
+100,Houston, Texas,2015-08-08,revenge,8,0,8,0,-1,Unclear,Black,Male,29.79705548,-95.36763856,2015
+101,Lafayette, Louisiana,2015-07-23,unknown,3,9,11,0,-1,Yes,White,Male,30.21233538,-92.0316453,2015
+102,Suwanee, Georgia,2015-07-22,psycho,4,1,4,0,-1,Unclear,White,Male,34.05057545,-84.06872262,2015
+103,Chattanooga, Tennessee,2015-07-16,terrorism,5,3,7,0,-1,Yes,White,Male,35.09318123,-85.23676751,2015
+104,River Forest, Illinois,2015-07-12,domestic dispute,2,3,4,0,-1,Unclear,Unknown,Male,41.89499946,-87.81941392,2015
+105,Morven, North Carolina,2015-06-20,anger,0,4,4,0,-1,Unclear,Black,Male,34.86379864,-79.9996781,2015
+106,Charleston, South Carolina,2015-06-17,terrorism,9,1,10,0,21,Unclear,White,Male,32.788387,-79.933143,2015
+107,Miami Gardens, Florida,2015-06-16,unknown,0,4,4,0,-1,Unclear,Black,Male,25.94326707,-80.24253243,2015
+108,Menasha, Wisconsin,2015-06-11,unknown,3,1,4,0,27,Yes,Latino,Male,,,2015
+109,Deer Lodge, Montana,2015-06-07,unknown,5,0,4,0,-1,Unclear,White,Male,46.39761858,-112.73293329999998,2015
+110,Cleveland, Ohio,2015-05-31,psycho,3,1,3,0,-1,Unclear,Unknown,Male,41.47657557,-81.68051502,2015
+111,Conyers, Georgia,2015-05-31,psycho,3,2,4,0,-1,Unclear,White,Male,33.66086267,-84.02688527,2015
+112,Decatur, Illinois,2015-05-25,revenge,1,4,5,0,-1,Unclear,Black,Male,39.85566372,-88.93346458,2015
+113,Tucson, Arizona,2015-05-12,psycho,5,0,4,0,-1,Yes,Unknown,Male,32.15358905,-110.96776470000002,2015
+114,Newark, New Jersey,2015-05-10,terrorism,1,3,4,0,-1,Unclear,Black,Male,40.73169648,-74.18417699,2015
+115,Menasha, Wisconsin,2015-05-03,unknown,4,1,4,0,-1,Yes,Unknown,Male,44.20455909,-88.4484585,2015
+116,Milwaukee, Wisconsin,2015-05-01,domestic dispute,2,3,5,0,-1,No,Unknown,Male,43.06420322,-87.96724385,2015
+117,Gates, New York,2015-04-25,terrorism,1,6,7,0,-1,Unclear,Black,Male,43.15693027,-77.69300856,2015
+118,Killeen, Texas,2015-04-21,unknown,2,3,5,0,-1,Unclear,Black,Male,31.07925506,-97.73392317,2015
+119,Phoenix, Arizona,2015-04-16,unknown,5,0,4,0,-1,Unclear,Unknown,Male,33.57145875,-112.0904854,2015
+120,Rome, Georgia,2015-04-07,unknown,1,3,4,0,-1,No,Black,Male,34.26779152,-85.18822422,2015
+121,Indianapolis, Indiana,2015-04-05,unknown,0,5,5,0,-1,No,Unknown,Male,39.77725479,-86.14635359,2015
+122,Daytona Beach, Florida,2015-04-03,unknown,0,4,4,0,-1,No,Black,Male,29.19313443,-81.10173014,2015
+123,Tulsa, Oklahoma,2015-03-30,unknown,4,0,3,0,-1,Unclear,Asian,Male,36.13543238,-95.91316117,2015
+124,Panama City Beach, Florida,2015-03-28,unknown,0,7,7,0,-1,No,Black,Male,30.22540212,-85.87371301,2015
+125,Little Water, New Mexico,2015-03-19,psycho,2,2,3,1,-1,Unclear,Unknown,Male,36.443290000000005,-108.723281,2015
+126,Mesa, Arizona,2015-03-18,unknown,1,5,6,0,-1,No,White,Male,33.42268696,-111.8163202,2015
+127,Cottonwood, Alabama,2015-03-15,unknown,3,1,3,0,-1,No,White,Male,31.054968699999996,-85.30100084,2015
+128,Brookhaven, Mississippi,2015-03-13,unknown,2,3,5,0,-1,Unclear,Black,Male,31.58036482,-90.44323475,2015
+129,Tarboro, North Carolina,2015-02-28,terrorism,4,0,3,0,-1,Yes,Black,Male,35.90434471,-77.55639964,2015
+130,Birmingham, Alabama,2015-02-27,psycho,1,2,3,0,-1,No,Black,Male,33.5282865,-86.79550448,2015
+131,Tyrone, Missouri,2015-02-26,psycho,8,1,8,0,-1,No,White,Male,37.204442,-91.876583,2015
+132,Charlotte, North Carolina,2015-02-24,unknown,3,0,3,0,-1,No,Unknown,Male,35.226354,-80.836788,2015
+133,Clarkesville, Georgia,2015-02-22,unknown,3,2,4,0,-1,No,White,Male,34.61025711,-83.52918091,2015
+134,Killeen, Texas,2015-02-22,unknown,4,1,4,0,-1,No,Black,Male,31.07925506,-97.73392317,2015
+135,Chapel Hill, North Carolina,2015-02-10,anger,3,0,3,0,-1,No,White,Male,35.92681467,-79.03850407,2015
+136,New Port Richey, Florida,2015-02-09,terrorism,3,1,4,0,-1,No,White,Unknown,28.24653304,-82.71690259,2015
+137,Monroeville, Pennsylvania,2015-02-07,unknown,0,3,3,0,-1,No,Black,Male,40.425745500000005,-79.76092565,2015
+138,Douglasville, Georgia,2015-02-07,psycho,5,2,6,0,-1,No,Black,Male,33.71059292,-84.71564276,2015
+139,King, North Carolina,2015-02-04,psycho,4,0,3,0,-1,Unclear,White,Male,36.27617912,-80.35501402,2015
+140,Syracuse, New York,2015-02-01,revenge,0,6,6,0,-1,No,Black,Male,43.04093416,-76.14376763,2015
+141,LaGrange, Georgia,2015-01-28,psycho,5,0,5,0,-1,No,White,Male,33.03607062,-85.0287065,2015
+142,New York City, New York,2015-01-24,psycho,4,1,4,0,-1,No,Black,Male,40.68996411,-73.8720502,2015
+143,Omaha, Nebraska,2015-01-24,terrorism,3,5,8,0,-1,No,Black,Male,41.265921999999996,-96.05381421,2015
+144,Moscow, Idaho,2015-01-10,psycho,3,1,4,0,-1,No,Asian,Male,46.73059479,-116.99900420000002,2015
+145,Memphis, Tennessee,2015-01-01,anger,0,5,5,0,-1,No,Black,Male,35.10528976,-89.97734924,2015
+146,Pennsburg, Souderton,2014-12-15,psycho,7,1,7,0,-1,Yes,White,Male,40.39359306,-75.49640881,2014
+147,Morgantown, West Virginia,2014-12-01,psycho,5,0,4,0,-1,No,White,Male,39.63400851,-79.94839325,2014
+148,Tallahassee, Florida,2014-11-19,terrorism,1,3,3,0,-1,Yes,Black,Male,30.454939399999997,-84.25264151,2014
+149,Marysville, Washington,2014-10-24,anger,5,1,5,0,-1,No,Native American,Male,48.04802409,-122.1359622,2014
+150,Albuquerque, New Mexico,2014-08-08,anger,2,3,4,0,-1,No,Unknown,Male,35.15290522,-106.7791378,2014
+151,New Orleans, Louisiana,2014-06-29,anger,1,9,10,0,-1,No,Mixed,Male,30.0687242,-89.93147412,2014
+152,Las Vegas, Nevada,2014-06-08,psycho,5,0,3,2,-1,No,White,Unknown,36.18931923,-115.3264875,2014
+153,Seattle, Washington,2014-06-05,terrorism,1,2,3,0,-1,Yes,Unknown,Male,47.62199575,-122.323646,2014
+154,Santa Barbara, California,2014-05-23,psycho,6,13,19,0,22,Yes,White,Male,,,2014
+155,Kennesaw, Georgia,2014-04-29,terrorism,1,6,6,0,19,No,White,Male,34.02529674,-84.61766831,2014
+156,Fort Hood, Texas,2014-04-03,psycho,3,12,15,3,34,Unclear,Latino,Male,,,2014
+157,Killeen, Texas,2014-04-02,psycho,4,16,19,3,34,Yes,Unknown,Male,31.07925506,-97.73392317,2014
+158,San Francisco, CA,2014-03-23,anger,0,8,8,0,-1,No,Black,Male,37.75457839,-122.44243429999999,2014
+159,Alturas, California,2014-02-20,psycho,4,2,6,0,44,No,Native American,Female,41.4911123,-120.54909099999999,2014
+160,Montgomery, Alabama,2013-12-28,anger,3,5,8,0,-1,No,Black,Male,32.34729571,-86.26730242,2013
+161,Los Angeles, California,2013-11-01,anger,1,3,4,1,23,No,White,Male,34.17622092,-118.53995420000001,2013
+162,Sparks, Nevada,2013-10-21,psycho,2,2,3,0,12,Unclear,Unknown,Male,39.54058388,-119.748291,2013
+163,Washington D.C.,,2013-09-16,terrorism,13,3,15,0,34,Yes,Black,Male,38.90480894,-77.01629717,2013
+164,Oklahoma City, Oklahoma,2013-08-14,psycho,4,0,4,0,40,Yes,White,Male,35.46779189,-97.5191631,2013
+165,Dallas, Texas,2013-08-07,psycho,4,4,8,0,44,Unclear,Black,Male,32.79480596,-96.76631094,2013
+166,Salisbury , Pennsylvania,2013-08-05,psycho,3,3,6,0,59,No,White,Male,39.75344279,-79.08435956,2013
+167,Hialeah, Florida,2013-07-26,terrorism,7,0,7,0,42,Unclear,Latino,Male,25.867010500000003,-80.29146268,2013
+168,Santa Monica, California,2013-06-07,psycho,6,3,8,0,23,Yes,White,Male,34.02319149,-118.48156440000001,2013
+169,Manchester, Illinois,2013-04-24,anger,7,1,7,0,43,Unclear,White,Male,39.54231335,-90.33029852,2013
+170,Federal Way, Washington,2013-04-21,anger,5,0,4,0,27,Unclear,Black,Male,47.30909721,-122.3357553,2013
+171,Mohawk, New York,2013-03-13,psycho,5,2,6,0,64,No,White,Male,43.0104011,-75.00751190000001,2013
+172,Ladera Ranch, California,2013-02-19,psycho,4,3,6,0,20,Yes,White,Male,33.54961059,-117.64157069999999,2013
+173,Irvine, California,2013-02-03,anger,4,2,7,1,33,Yes,Black,Male,33.67803464,-117.773628,2013
+174,Phoenix, Arizona,2013-01-30,psycho,3,1,3,0,70,Unclear,White,Male,33.57145875,-112.0904854,2013
+175,South Valley, Albuquerque,2013-01-19,psycho,5,0,5,0,15,Yes,Unknown,Male,35.15290522,-106.7791378,2013
+176,Newtown, Connecticut,2012-12-14,terrorism,28,2,29,0,20,Yes,White,Male,41.41190846,-73.31196267,2012
+177,Happy Valley, Oregon,2012-12-11,terrorism,3,1,3,0,22,No,Unknown,Male,45.44853107,-122.54401329999999,2012
+178,Brookfield, Wisconsin,2012-10-21,psycho,4,4,7,0,45,No,Black,Male,43.06396691,-88.12299758,2012
+179,Miami, Florida,2012-09-28,terrorism,0,15,15,0,-1,Unclear,Black,Male,25.79653943,-80.20840397,2012
+180,Minneapolis, Minnesota,2012-09-27,unemployement,7,2,8,0,36,Yes,White,Male,44.96358722,-93.26783687,2012
+181,Oak Creek, Wisconsin,2012-08-05,racism,7,4,10,0,40,No,White,Male,42.88027442,-87.90087079,2012
+182,Aurora, Colorado,2012-07-20,terrorism,12,70,82,0,24,Yes,White,Male,39.709283,-104.823488,2012
+183,Auburn, Alabama,2012-06-09,terrorism,3,3,6,0,22,Unclear,Black,Male,32.60598014,-85.48989253,2012
+184,Seattle, Washington,2012-05-30,psycho,6,1,6,0,40,Yes,White,Male,47.62199575,-122.323646,2012
+185,Seattle, Washington,2012-05-20,psycho,6,1,7,0,40,Yes,White,Male,47.6038321,-122.3300624,2012
+186,Tulsa, Oklahoma,2012-04-06,racism,3,2,5,0,"19,32",No,White,Male,36.13543238,-95.91316117,2012
+187,Oakland, California,2012-04-02,terrorism,7,3,10,0,43,Yes,Asian,Male,37.8043808,-122.2708166,2012
+188,Chardon, Ohio,2012-02-27,terrorism,3,3,6,0,17,Yes,White,Male,41.58025541,-81.20812625,2012
+189,Norcross, Georgia,2012-02-22,anger,5,0,5,0,59,Yes,Asian,Male,33.9412127,-84.2135309,2012
+190,Birmingham, Alabama,2012-01-29,terrorism,5,0,5,0,-1,No,Black,Male,33.5282865,-86.79550448,2012
+191,Seal Beach, California,2011-10-12,anger,8,1,9,0,41,Yes,White,Male,33.75432632,-118.0715378,2011
+192,Carson City, Nevada,2011-09-06,terrorism,5,7,12,0,32,Yes,Latino,Male,39.1637984,-119.76740339999999,2011
+193,Grand Rapids, Michigan,2011-07-07,psycho,8,2,9,0,34,Yes,Black,Male,42.96920434,-85.66008902,2011
+194,Opelika, Alabama,2011-04-06,anger,1,3,4,0,34,Yes,White,Male,32.66240106,-85.37706931,2011
+195,Youngstown, Ohio,2011-02-06,anger,1,11,12,0,"19,22",Unclear,Black,Male,41.09933958,-80.64631705,2011
+196,Tucson, Arizona,2011-01-08,terrorism,6,13,19,0,22,Yes,White,Male,32.2217429,-110.926479,2011
+197,Manchester, Connecticut,2010-08-03,frustration,9,2,11,0,34,No,Black,Male,41.775932399999995,-72.5214755,2010
+198,Huntsville, Alabama,2010-02-12,psycho,0,3,6,0,44,No,White,Female,34.72827538,-86.67230550000001,2010
+199,Parkland, Washington,2009-11-29,revenge,4,1,5,4,37,Yes,Black,Male,47.155846000000004,-122.437031,2009
+200,Lakewood, Washington,2009-11-29,revenge,5,0,4,4,37,Yes,Black,Male,47.16267579,-122.5296574,2009
+201,Fort Hood, Texas,2009-11-05,terrorism,13,32,45,0,39,Yes,White,Male,31.13814354,-97.77797804,2009
+202,Binghamton, New York,2009-04-03,terrorism,14,4,18,0,41,Yes,Asian,Male,42.0986867,-75.9179738,2009
+203,Carthage, North Carolina,2009-03-29,psycho,8,3,11,0,45,Yes,White,Male,35.345802,-79.41705429999999,2009
+204,Santa Clara, California,2009-03-29,psycho,6,1,6,0,42,No,Asian,Male,37.36463172,-121.96793149999999,2009
+205,Carthage, North Carolina,2009-03-29,psycho,8,2,10,0,45,Yes,White,Male,35.33985609,-79.41381725,2009
+206,Geneva, Alabama,2009-03-10,psycho,11,6,16,0,28,No,White,Male,31.04367594,-85.87634659999999,2009
+207,Covina, California,2008-12-24,psycho,10,2,11,0,45,No,White,Male,34.09026669,-117.88199579999998,2008
+208,Conway, Arkansas,2008-10-26,terrorism,0,1,3,0,19,No,Black,Male,35.08130744,-92.43278275,2008
+209,Phoenix, Arizona,2008-07-24,anger,0,3,3,0,24,No,Black,Male,33.57145875,-112.0904854,2008
+210,Henderson, Kentucky,2008-06-25,anger,7,1,7,0,25,No,White,Male,37.84040411,-87.57853755,2008
+211,DeKalb, Illinois,2008-02-14,terrorism,5,21,26,0,27,Yes,White,Male,41.9294736,-88.7503647,2008
+212,Kirkwood, Missouri,2008-02-07,terrorism,6,2,7,0,52,No,Black,Male,38.57889169,-90.42023754,2008
+213,Carnation, Washington,2007-12-24,domestic dispute,6,0,6,0,29,No,White,Unknown,47.64628742,-121.9088524,2007
+214,Las Vegas, Nevada,2007-12-11,terrorism,0,6,6,0,18,No,Black,Male,36.18931923,-115.3264875,2007
+215,Arvada, Colorado,2007-12-09,anger,5,5,9,0,24,No,White,Male,39.81087474,-105.17371499999999,2007
+216,Omaha, Nebraska,2007-12-05,terrorism,9,4,13,0,19,Yes,White,Male,41.258731700000006,-95.93787320000001,2007
+217,Saginaw, Michigan,2007-10-25,frustration,0,4,4,0,15,No,Black,Male,43.41929117,-83.95032759,2007
+218,Cleveland, Ohio,2007-10-11,suspension,1,4,4,0,14,Yes,White,Male,41.47657557,-81.68051502,2007
+219,Crandon, Wisconsin,2007-10-07,anger,6,1,7,0,20,Unclear,White,Male,45.571907200000005,-88.9028922,2007
+220,Blacksburg, Virginia,2007-04-16,terrorism,32,23,55,0,23,Yes,Asian,Male,37.2295733,-80.4139393,2007
+221,Gresham, Oregon,2007-04-10,terrorism,0,10,10,0,15,No,Unknown,Male,45.50216511,-122.44127590000001,2007
+222,Salt Lake City, Utah,2007-02-12,religious radicalism,6,4,9,0,18,Unclear,White,Male,40.77787404,-111.9312168,2007
+223,Lancaster County, Pennsylvania,2006-10-02,terrorism,6,5,11,0,32,No,White,Male,39.9589,-76.0806,2006
+224,Nickel Mines, Lancaster,2006-10-02,terrorism,6,5,10,0,32,Unclear,White,Male,40.04214385,-76.30100872,2006
+225,Pittsburgh, Pennsylvania,2006-09-17,frustration,0,5,5,0,18,Unclear,Black,Male,40.43948548,-79.97631581,2006
+226,Hillsborough, North Carolina,2006-08-30,psycho,1,2,3,0,18,Yes,Unknown,Male,36.04099857,-79.09701201,2006
+227,Essex Junction, Vermont,2006-08-24,psycho,2,2,4,0,26,Yes,Black,Male,44.49022039,-73.11400628,2006
+228,Seattle, Washington,2006-03-25,drunk,7,2,9,0,28,No,White,Male,47.6229,-122.3165,2006
+229,Goleta, California,2006-01-30,psycho,8,0,7,0,44,Yes,White,Female,34.43606107,-119.8593619,2006
+230,Red Lake, Minnesota,2005-03-21,psycho,10,5,14,0,16,Yes,Native American,Male,47.87067289,-95.00529009,2005
+231,Brookfield, Wisconsin,2005-03-12,frustration,8,4,11,0,44,No,White,Male,43.06396691,-88.12299758,2005
+232,Tyler, Texas,2005-02-24,frustration,3,4,6,0,43,Unclear,Unknown,Male,32.3154272,-95.30501087,2005
+233,Columbus, Ohio,2004-12-08,frustration,5,7,11,0,25,Yes,White,Male,39.98861445,-82.98904135,2004
+234,Birchwood, Wisconsin,2004-11-21,anger,6,2,8,0,36,No,Asian,Male,45.65773714,-91.55077175,2004
+235,Chicago, Illinois,2003-08-27,unemployement,7,0,6,0,36,No,Unknown,Male,41.83928045,-87.68818145,2003
+236,Meridian, Mississippi,2003-07-08,racism,7,8,15,0,48,Yes,White,Male,32.376081,-88.68978002,2003
+237,Cleveland, Ohio,2003-05-09,terrorism,1,2,3,0,-1,No,Asian,Male,41.47657557,-81.68051502,2003
+238,Tucson, Arizona,2002-10-28,failing exams,4,0,3,0,41,No,Unknown,Male,32.15358905,-110.96776470000002,2002
+239,Grundy, Virginia,2002-01-16,anger,3,3,6,0,43,No,Black,Male,37.27537712,-82.09877234,2002
+240,Santee, San Diego,2001-03-05,terrorism,2,13,15,0,15,No,White,Male,32.86357277,-117.1281628,2001
+241,Melrose Park, Illinois,2001-02-05,unemployement,6,4,9,0,66,No,Black,Male,41.90289602,-87.86430209999999,2001
+242,Wakefield, Massachusetts,2000-12-26,unknown,7,0,7,0,42,Yes,White,Male,42.506484,-71.0728306,2000
+243,Tampa, Florida,1999-12-30,unknown,5,3,8,0,36,No,Unknown,Male,27.99601861,-82.44503769,1999
+244,Fort Gibson, Oklahoma,1999-12-06,unknown,0,4,4,0,13,No,White,Male,35.77669911,-95.25996596,1999
+245,Honolulu, Hawaii,1999-11-02,unknown,7,0,7,0,40,Yes,Asian,Male,21.3255125,-157.8473055,1999
+246,Fort Worth, Texas,1999-09-15,terrorism,8,7,14,0,47,Yes,White,Male,32.74802142,-97.31305148,1999
+247,Atlanta, Georgia,1999-07-29,psycho,10,12,21,0,44,Yes,White,Male,33.7629969,-84.4231328,1999
+248,Conyers, Georgia,1999-05-20,breakup,0,6,6,0,15,No,White,Male,33.66086267,-84.02688527,1999
+249,Littleton, Colorado,1999-04-20,terrorism,15,24,37,0,"17,18",Yes,White,Male,39.59358263,-105.0152112,1999
+250,Riverside, California,1998-10-06,terrorism,0,6,6,0,48,No,Black,Male,33.93814348,-117.3948409,1998
+251,Springfield, Oregon,1998-05-21,psycho,4,25,29,0,15,Yes,White,Male,44.05489698,-123.0075562,1998
+252,Edinboro, Pennsylvania,1998-04-24,unknown,1,3,4,0,14,Yes,White,Male,41.87617136,-80.12459632,1998
+253,Jonesboro, Arkansas,1998-03-24,unknown,5,10,15,0,"13,11",No,White,Male,35.8209895,-90.6682606,1998
+254,Newington, Connecticut,1998-03-06,anger,5,0,4,0,35,Yes,White,Male,41.68700845,-72.73083927,1998
+255,Milwaukee, Wisconsin,1997-12-19,unknown,2,2,3,0,37,No,Black,Male,43.06420322,-87.96724385,1997
+256,Orange, California,1997-12-18,unemployement,5,2,6,1,41,No,Unknown,Male,33.78935598,-117.820412,1997
+257,West Paducah, Kentucky,1997-12-01,psycho,3,5,8,0,14,Yes,White,Male,37.08506,-88.74422,1997
+258,Pearl, Mississippi,1997-10-01,psycho,2,7,9,0,16,Yes,White,Male,32.27492783,-90.09470655,1997
+259,Aiken, South Carolina,1997-09-15,unemployement,4,3,7,1,43,No,Black,Male,33.47524551,-81.72595949,1997
+260,Bethel, Alaska,1997-02-19,frustration,2,2,4,0,16,Yes,White,Male,60.79053882,-161.7927517,1997
+261,San Diego, California,1996-08-15,unknown,3,0,3,0,36,No,White,Male,32.86357277,-117.1281628,1996
+262,Fort Lauderdale, Florida,1996-02-09,revenge,6,1,7,0,41,Yes,Black,Male,26.122308399999998,-80.14337859999999,1996
+263,Moses Lake, Washington,1996-02-02,frustration,3,1,4,0,14,Yes,White,Male,47.12189424,-119.2750699,1996
+264,Lynnville, Tennessee,1995-11-15,unknown,2,1,3,0,17,Yes,White,Male,35.37810374,-87.00610559,1995
+265,Corpus Christi, Texas,1995-04-03,anger,6,0,5,0,-1,No,Unknown,Male,27.73907518,-97.43073352,1995
+266,Montclair, New Jersey,1995-03-21,unemployement,4,1,5,0,29,No,White,Male,40.826184000000005,-74.20862,1995
+267,Chapel Hill, North Carolina,1995-01-26,psycho,2,2,4,0,26,Yes,White,Male,35.92681467,-79.03850407,1995
+268,Brookline, Massachusetts,1994-12-30,terrorism,2,5,7,0,-1,Yes,White,Male,42.32427392,-71.14080012,1994
+269,Wickliffe, Ohio,1994-11-07,psycho,1,3,4,0,37,Yes,White,Male,41.60713735,-81.46902046,1994
+270,Fairchild Air Force Base, Washington,1994-06-20,anger,5,23,27,0,20,Yes,White,Male,47.618456,-117.644099,1994
+271,Union, Kentucky,1994-05-26,psycho,4,0,4,0,17,No,White,Male,38.95130818,-84.67066339,1994
+272,Chelsea, Michigan,1993-12-16,anger,1,2,3,0,39,Yes,White,Male,42.31319376,-84.01868108,1993
+273,Aurora, Colorado,1993-12-14,unemployement,4,1,5,0,19,Yes,Black,Male,39.69892933,-104.7871863,1993
+274,Garden City, New York,1993-12-07,psycho,6,19,25,0,34,No,Black,Male,40.72662266,-73.644712,1993
+275,Sheridan, Wyoming,1993-09-17,frustration,1,4,4,0,29,No,White,Male,44.79051074,-106.9599165,1993
+276,Fayetteville, North Carolina,1993-08-06,anger,4,8,12,0,22,No,White,Male,35.07997086,-79.03796125,1993
+277,Ogden, Utah,1993-07-08,frustration,1,3,3,0,28,No,Asian,Male,41.2281367,-111.96753170000001,1993
+278,San Francisco, California,1993-07-01,frustration,9,6,14,0,55,No,White,Male,37.75457839,-122.44243429999999,1993
+279,Dearborn, Michigan,1993-05-06,frustration,2,2,3,0,45,Unclear,Unknown,Male,42.31269522,-83.21293244,1993
+280,Dana Point, California,1993-05-06,psycho,1,5,6,0,38,Yes,White,Male,33.47316083,-117.696399,1993
+281,Great Barrington, Massachusetts,1992-12-14,unknown,2,4,6,0,18,No,Asian,Male,42.19358268,-73.36216339,1992
+282,Watkins Glen, New York,1992-10-15,frustration,5,0,4,0,50,No,White,Male,42.38013875,-76.86724659,1992
+283,Amarillo, Texas,1992-09-11,anger,0,6,6,0,17,Unclear,Unknown,Male,35.18322484,-101.88056879999999,1992
+284,Olivehurst, California,1992-05-01,failing exams,4,10,14,0,20,Yes,White,Male,39.08174985,-121.55495390000002,1992
+285,Royal Oak, Michigan,1991-11-14,unemployement,5,5,9,0,31,Yes,White,Male,42.50840203,-83.15387427,1991
+286,Iowa City, Iowa,1991-11-01,frustration,6,1,6,0,28,No,Asian,Male,41.65589405,-91.53117986,1991
+287,Killeen, Texas,1991-10-16,unemployement,24,20,43,0,35,Yes,White,Male,31.07925506,-97.73392317,1991
+288,Ridgewood, New Jersey,1991-10-10,revenge,3,0,3,0,35,Yes,Black,Male,40.98213277,-74.11264731,1991
+289,Phoenix, Arizona,1991-08-09,robbery,9,0,9,0,-1,No,Asian,Male,33.57145875,-112.0904854,1991
+290,Jacksonville, Florida,1990-06-17,psycho,12,6,17,0,42,No,Black,Male,30.33216122,-81.67576993,1990
+291,Louisville, Kentucky,1989-09-14,frustration,9,12,20,0,47,Yes,White,Male,38.249432,-85.72624300000001,1989
+292,Escondido, California,1989-08-10,psycho,4,1,4,0,52,No,White,Male,33.13439925,-117.07225279999999,1989
+293,Stockton, California,1989-01-17,terrorism,6,30,35,0,24,Yes,White,Male,37.96631812,-121.30187749999999,1989
+294,New Orleans, Louisiana,1988-12-14,unknown,0,4,4,0,39,Unclear,Unknown,Male,30.0687242,-89.93147412,1988
+295,Greenwood, South Carolina,1988-09-26,psycho,2,9,11,0,19,Yes,White,Male,34.1928952,-82.15355508,1988
+296,Chicago, Illinois,1988-09-22,terrorism,5,2,6,1,40,No,Black,Male,41.83928045,-87.68818145,1988
+297,Winnetka, Illinois,1988-05-20,terrorism,2,7,8,0,30,Yes,White,Female,42.10648807,-87.74211141,1988
+298,Sunnyvale, California,1988-02-16,revenge,7,4,11,0,39,Yes,White,Male,37.38344257,-122.02561850000001,1988
+299,Pinellas Park, Florida,1988-02-11,frustration,1,2,3,0,"15,16",No,White,Male,27.84887061,-82.71058000000001,1988
+300,Palm Bay, Florida,1987-04-23,psycho,6,14,20,0,59,Yes,White,Male,27.98388983,-80.66662713,1987
+301,Lewistown, Montana,1986-12-04,failing exams,1,3,4,0,14,Yes,White,Male,47.03740653,-109.4844918,1986
+302,Edmond, Oklahoma,1986-08-20,unknown,15,6,20,0,44,Yes,White,Male,35.66889223,-97.41438792,1986
+303,Brooklyn, New York,1986-08-12,revenge,1,4,5,0,29,Yes,Black,Male,40.679276,-73.939513,1986
+304,Atlanta, Georgia,1985-03-06,anger,2,1,3,0,30,Yes,Black,Male,33.7629969,-84.4231328,1985
+305,Goddard, Kansas,1985-01-21,unknown,1,3,4,0,14,Yes,White,Male,37.67129418,-97.55070476,1985
+306,San Ysidro, California,1984-07-18,psycho,22,19,40,0,41,Yes,White,Male,32.555556,-117.047656,1984
+307,Dallas, Texas,1984-06-29,revenge,6,1,7,0,39,Yes,White,Male,32.79480596,-96.76631094,1984
+308,Los Angeles, California,1984-02-24,terrorism,3,12,14,0,28,Yes,Black,Male,34.17622092,-118.53995420000001,1984
+309,Johnston, South Carolina,1983-08-19,anger,1,3,4,0,55,Yes,White,Male,33.83272887,-81.8051584,1983
+310,Seattle, Washington,1983-02-18,terrorism,13,1,14,0,23,Unclear,Asian,Male,47.62199575,-122.323646,1983
+311,Miami, Florida,1982-08-20,psycho,9,3,11,0,51,Yes,White,Male,25.79653943,-80.20840397,1982
+312,Las Vegas, Nevada,1982-03-19,unknown,1,2,3,0,17,Yes,White,Male,36.18931923,-115.3264875,1982
+313,Columbia, South Carolina,1979-10-06,unknown,2,5,7,0,19,Unclear,Black,Male,34.05098834,-80.82077527,1979
+314,San Diego, California,1979-01-29,terrorism,2,9,11,0,16,Yes,White,Female,32.86357277,-117.1281628,1979
+315,Fullerton, California,1976-07-12,terrorism,7,2,9,0,37,Yes,White,Male,33.88404244,-117.92785,1976
+316,Los Angeles, California,1976-02-19,anger,1,7,8,0,18,Unclear,White,Male,34.17622092,-118.53995420000001,1976
+317,Olean, New York,1974-12-30,terrorism,3,7,10,0,17,No,White,Male,42.08185369,-78.43213922,1974
+318,Chicago, Illinois,1974-01-17,anger,1,3,4,0,14,Yes,Unknown,Male,41.83928045,-87.68818145,1974
+319,New Orleans, Louisiana,1972-12-31,psycho,10,13,22,4,23,Yes,Black,Male,30.0687242,-89.93147412,1972
+320,Spokane, Washington,1971-11-11,terrorism,2,4,5,0,-1,Yes,White,Male,47.67367375,-117.41598429999999,1971
+321,Mesa, Arizona,1966-11-12,terrorism,5,1,6,0,18,Yes,White,Male,33.42268696,-111.8163202,1966
+322,Austin, Texas,1966-08-01,terrorism,17,32,48,0,25,Yes,White,Male,30.198887300000003,-97.84415949,1966
